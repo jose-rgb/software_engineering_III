@@ -16,6 +16,7 @@ const getEstado = "Novo";
 //verificar estado 
 if(getEstado == "Novo") {
     var estado = getEstado
+    console.log('>>livro  não vai para manutenção')
 } else {
     // chamar function externa para manutenção do livro
     console.log('>>livro vai para manutenção')

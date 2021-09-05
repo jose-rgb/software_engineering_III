@@ -22,3 +22,5 @@
 
 ### pode-se observar que agora a validação ocorre dentro da classe através de um método.
 
+## Vídeo explicativo 🎥
+<a href="https://youtu.be/q_jSktMwHcE" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384060.png"  height="40" width="40" /></a>
